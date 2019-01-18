@@ -1,6 +1,10 @@
 # quiz-5-corrections
 Q1: From a classification perspective, a getter method is a(n)...?
+
+
 My Answer: constructor 
+
+
 Correct Answer: accessor
 
 Why It's Correct: 
@@ -11,7 +15,11 @@ Accesor methods are needed in order to restrict who can access
 fields and how they can access them.
 
 Q8: From a classification perspective, a setter method is a(n)...?
+
+
 My Answer: constructor 
+
+
 Correct Answer: mutator
 
 Why It's Correct:
